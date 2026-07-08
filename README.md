@@ -26,11 +26,11 @@ Every `send()` call is **fully type-checked** against your template definitions 
 ## Installation
 
 ```sh
-bun add retemp resend react react-dom
+bun add @fakhyy/retemp resend react react-dom
 ```
 
 ```sh
-npm install retemp resend react react-dom
+npm install @fakhyy/retemp resend react react-dom
 ```
 
 > **Peer dependencies:** `resend ^6.17.1`, `react ^18 || ^19`, `react-dom ^18 || ^19`, `typescript ^5`.
