@@ -1,4 +1,16 @@
-# retemp
+<div align="center">
+  <picture>
+    <source srcset="./banner.png" media="(prefers-color-scheme: dark)"/>
+  </picture>
+
+  <p>
+    <a href="https://retemp.vercel.app.com">Website</a>
+    ·
+    <a href="https://github.com/fakhyy/retemp/issues">Issues</a>
+  </p>
+</div>
+
+# Retemp
 
 Typed, lightweight email sending for **Resend** + **React** email templates.
 
