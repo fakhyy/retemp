@@ -1,7 +1,5 @@
 <div align="center">
-  <picture>
-    <source srcset="./banner.png" media="(prefers-color-scheme: dark)"/>
-  </picture>
+  <img src="./banner.png" />
 
   <p>
     <a href="https://retemp.vercel.app.com">Website</a>
