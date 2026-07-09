@@ -2,7 +2,7 @@
   <img src="./banner.png" />
 
   <p>
-    <a href="https://retemp.vercel.app.com">Website</a>
+    <a href="https://retemp.vercel.app">Website</a>
     ·
     <a href="https://github.com/fakhyy/retemp/issues">Issues</a>
   </p>
